@@ -1,4 +1,6 @@
 #!/usr/bin/python3
+""" Class Square"""
+
 
 class square():
     width = 0
